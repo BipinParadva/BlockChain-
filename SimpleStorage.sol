@@ -38,7 +38,7 @@ contract SimpleStorage {
 
  
 
-    People public person = People({favoriteNumber : 1, name : "vishal"});
+    People public person = People({favoriteNumber : 1, name : "Bipin"});
 
  
 
